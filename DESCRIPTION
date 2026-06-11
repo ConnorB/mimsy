@@ -23,11 +23,11 @@ BugReports: https://github.com/michelleckelly/mimsy/issues
 LazyData: true
 Encoding: UTF-8
 Imports: dplyr,
-    magrittr,
     lubridate,
 	openxlsx,
 	utils
 Suggests: knitr,
+    magrittr,
     rmarkdown,
     kableExtra,
     xfun
